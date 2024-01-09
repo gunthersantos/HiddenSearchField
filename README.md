@@ -1,4 +1,4 @@
-<h1>Hidden Search Widget Clone Project <br>
+<h1>Hidden Search Widget Clone Project</h1> <br>
 ~ 1. Project Description<br>
 Build a clone of a Hidden Search Widget using HTML, CSS and Javascript <br>
 
